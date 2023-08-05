@@ -2,14 +2,10 @@ Hi, I’m @heeyonhh✨
 
 🌱 I’m currently learning ...
 
-html css javacript
+html css sass javacript jquery parallax
 
-react react-native
+react typescript redux mui bootstrap
 
-photoshop illust figma
+react-native figma firebase
 
-firebase mui bootstrap
-
-parallax
-
-redux
+photoshop illustrator
