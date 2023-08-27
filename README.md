@@ -1,6 +1,6 @@
 # 🐙 HEEYON Github
 
-## ETA !! 항상 익히고 배우자 / 백엔드까지 공부하자
+## ETA !! 항상 익히고 배우자 백엔드까지 공부하자
 
 Languages
 
